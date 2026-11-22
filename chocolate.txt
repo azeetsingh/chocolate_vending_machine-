@@ -1,0 +1,63 @@
+SKU|Product_Name|Brand|Category|Pack_Size|Price_INR|Quantity
+1001|Dairy Milk Chocolate|Cadbury|Milk Chocolate|20.2g|20|25
+1002|Dairy Milk Chocolate|Cadbury|Milk Chocolate|40g|45|8
+1003|Dairy Milk Chocolate|Cadbury|Milk Chocolate|150g|150|5
+1004|Dairy Milk Silk Classic|Cadbury|Milk Chocolate|60g|99|28
+1005|Dairy Milk Silk Oreo|Cadbury|Milk Chocolate|60g|99|13
+1006|Dairy Milk Silk Fruit & Nut|Cadbury|Milk Chocolate|60g|99|12
+1007|Dairy Milk Silk Roast Almond|Cadbury|Milk Chocolate|58g|99|12
+1008|Dairy Milk Silk Bubbly|Cadbury|Milk Chocolate|50g|99|9
+1009|Dairy Milk Crispello|Cadbury|Wafer Chocolate|35g|30|28
+1010|Dairy Milk Crackle|Cadbury|Milk Chocolate|36g|40|8
+1011|Dairy Milk Fruit & Nut|Cadbury|Milk Chocolate|36g|40|26
+1012|Dairy Milk Roast Almond|Cadbury|Milk Chocolate|36g|40|28
+1013|5 Star|Cadbury|Chocolate Bar|20g|20|22
+1014|5 Star|Cadbury|Chocolate Bar|40g|40|7
+1015|5 Star 3D|Cadbury|Chocolate Bar|42g|40|23
+1016|5 Star Oreo|Cadbury|Chocolate Bar|42g|40|18
+1017|Gems|Cadbury|Candy Coated Chocolate|17.8g|10|6
+1018|Gems|Cadbury|Candy Coated Chocolate|35.6g|20|5
+1019|Gems Surprise Pack|Cadbury|Candy Coated Chocolate|17.8g|20|7
+1020|Perk|Cadbury|Wafer Chocolate|11g|10|11
+1021|Perk|Cadbury|Wafer Chocolate|22g|20|12
+1022|Perk Double Chocolaty|Cadbury|Wafer Chocolate|30g|30|21
+1023|Fuse|Cadbury|Chocolate Bar|25g|20|24
+1024|Fuse|Cadbury|Chocolate Bar|45g|40|5
+1025|Bournville Dark Chocolate|Cadbury|Dark Chocolate|80g|99|22
+1026|Bournville Fruit & Nut|Cadbury|Dark Chocolate|80g|110|11
+1027|Bournville Hazelnut|Cadbury|Dark Chocolate|80g|110|27
+1028|Celebrations Assorted|Cadbury|Assorted Chocolate|110g|CHECK_MRP|25
+1029|Dairy Milk Lickables|Cadbury|Milk Chocolate|20g|50|27
+1030|Dairy Milk Lickables Oreo|Cadbury|Milk Chocolate|20g|45|22
+1031|KitKat 4 Finger|Nestle|Wafer Chocolate|38.5g|30|18
+1032|KitKat 2 Finger|Nestle|Wafer Chocolate|17.7g|15|12
+1033|KitKat Chunky|Nestle|Wafer Chocolate|40g|50|19
+1034|KitKat Dark|Nestle|Wafer Chocolate|41.5g|50|23
+1035|Munch|Nestle|Wafer Chocolate|20.1g|CHECK_MRP|13
+1036|Munch|Nestle|Wafer Chocolate|40.2g|20|30
+1037|Munch Nuts|Nestle|Wafer Chocolate|32g|20|5
+1038|Milkybar|Nestle|White Chocolate|20g|10|29
+1039|Milkybar|Nestle|White Chocolate|40g|20|30
+1040|Milkybar Choo|Nestle|White Chocolate|10g|5|10
+1041|Bar One|Nestle|Chocolate Bar|20g|10|27
+1042|Bar One|Nestle|Chocolate Bar|40g|20|18
+1043|Choco Pie|Lotte|Cake Chocolate|28g|20|15
+1044|Choco Pie|Lotte|Cake Chocolate|168g|CHECK_MRP|13
+1045|Amul Dark Chocolate 55%|Amul|Dark Chocolate|150g|180|9
+1046|Amul Fruit n Nut Dark Chocolate|Amul|Dark Chocolate|150g|180|11
+1047|Amul Milk Chocolate|Amul|Milk Chocolate|150g|170|29
+1048|Amul Fruit n Nut Milk Chocolate|Amul|Milk Chocolate|150g|180|15
+1049|Amul Hazelnut Dark Chocolate|Amul|Dark Chocolate|150g|220|8
+1050|Amul 99% Cacao Dark Chocolate|Amul|Dark Chocolate|125g|CHECK_MRP|7
+1051|Amul Chocozoo|Amul|Milk Chocolate|30g|20|17
+1052|Snickers Peanut|Mars|Chocolate Bar|40g|50|8
+1053|Snickers Almond|Mars|Chocolate Bar|40g|50|16
+1054|Snickers Butterscotch|Mars|Chocolate Bar|40g|50|16
+1055|Galaxy Smooth Milk|Galaxy|Milk Chocolate|52g|90|24
+1056|Galaxy Jewels|Galaxy|Assorted Chocolate|200g|CHECK_MRP|13
+1057|Kinder Joy|Kinder|Milk Chocolate|20g|45|30
+1058|Kinder Joy Boys|Kinder|Milk Chocolate|20g|45|6
+1059|Kinder Joy Girls|Kinder|Milk Chocolate|20g|45|28
+1060|Hershey's Kisses Milk Chocolate|Hershey's|Milk Chocolate|36g|75|19
+1061|Hershey's Kisses Almond|Hershey's|Milk Chocolate|36g|80|22
+1062|Hershey's Nuggets|Hershey's|Milk Chocolate|126g|CHECK_MRP|8
